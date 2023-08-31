@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica5.dir/main.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica5/main.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/main.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica5.dir/AnalizadorLexico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica5/AnalizadorLexico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/AnalizadorLexico.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica5.dir/AnalizadorSintactico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica5/AnalizadorSintactico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/AnalizadorSintactico.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica5.dir/Nodo.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica5/Nodo.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/Nodo.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica5.dir/Hoja.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica5/Hoja.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica5/Hoja.cpp"
+}
+]

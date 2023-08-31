@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danacaro/Desktop/CUCEI/Sem Sistemas Operativos/Practica3/main.cpp
+stdlib.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+cstdint
+-
+filesystem
+-
+fstream
+-
+iostream
+-
+

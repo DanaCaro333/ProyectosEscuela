@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/proyectoxd/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica1.dir/main.cpp.o -c /home/danacaro/Desktop/proyectoxd/main.cpp",
+  "file": "/home/danacaro/Desktop/proyectoxd/main.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/proyectoxd/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica1.dir/Contribuyente.cpp.o -c /home/danacaro/Desktop/proyectoxd/Contribuyente.cpp",
+  "file": "/home/danacaro/Desktop/proyectoxd/Contribuyente.cpp"
+}
+]

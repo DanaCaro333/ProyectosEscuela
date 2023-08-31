@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/Ing Software/Reparaciones/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Reparaciones.dir/main.cpp.o -c \"/home/danacaro/Desktop/CUCEI/Ing Software/Reparaciones/main.cpp\"",
+  "file": "/home/danacaro/Desktop/CUCEI/Ing Software/Reparaciones/main.cpp"
+}
+]

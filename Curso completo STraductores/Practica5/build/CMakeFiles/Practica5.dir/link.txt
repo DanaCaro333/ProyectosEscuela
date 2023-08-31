@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/Practica5.dir/main.cpp.o CMakeFiles/Practica5.dir/AnalizadorLexico.cpp.o CMakeFiles/Practica5.dir/AnalizadorSintactico.cpp.o CMakeFiles/Practica5.dir/Nodo.cpp.o CMakeFiles/Practica5.dir/Hoja.cpp.o  -o Practica5 

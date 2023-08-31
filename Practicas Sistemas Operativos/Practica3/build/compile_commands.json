@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/Sem Sistemas Operativos/Practica3/build",
+  "command": "/bin/g++-9    -g   -std=gnu++17 -o CMakeFiles/Practica3.dir/main.cpp.o -c \"/home/danacaro/Desktop/CUCEI/Sem Sistemas Operativos/Practica3/main.cpp\"",
+  "file": "/home/danacaro/Desktop/CUCEI/Sem Sistemas Operativos/Practica3/main.cpp"
+}
+]

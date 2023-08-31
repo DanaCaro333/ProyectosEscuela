@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Proyecto.dir/main.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Proyecto/main.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/main.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Proyecto.dir/AnalizadorSintactico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Proyecto/AnalizadorSintactico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/AnalizadorSintactico.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Proyecto.dir/AnalizadorLexico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Proyecto/AnalizadorLexico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/AnalizadorLexico.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Proyecto.dir/Hoja.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Proyecto/Hoja.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/Hoja.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Proyecto.dir/Nodo.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Proyecto/Nodo.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Proyecto/Nodo.cpp"
+}
+]

@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1648749517 source:c:\users\pc\onedrive\escritorio\proyectos programacion\proyectoxd\main.cpp
+	<cstdlib>
+	<iostream>
+	<random>
+	<string>
+	"Contribuyente.cpp"
+
+1648749551 c:\users\pc\onedrive\escritorio\proyectos programacion\proyectoxd\contribuyente.cpp
+	"Contribuyente.h"
+	<algorithm>
+	<string>
+
+1648748308 c:\users\pc\onedrive\escritorio\proyectos programacion\proyectoxd\contribuyente.h
+	<cstring>
+	<random>
+
+1648766467 source:c:\users\gallito\desktop\proyectoxd\main.cpp
+	<cstdlib>
+	<iostream>
+	<random>
+	<string>
+	<fstream>
+	"Contribuyente.cpp"
+
+1648749551 c:\users\gallito\desktop\proyectoxd\contribuyente.cpp
+	"Contribuyente.h"
+	<algorithm>
+	<string>
+
+1648748308 c:\users\gallito\desktop\proyectoxd\contribuyente.h
+	<cstring>
+	<random>
+
+1649021797 source:c:\users\pc\onedrive\escritorio\proyectoxd\main.cpp
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<random>
+	<string>
+	"Contribuyente.cpp"
+	"Manager.cpp"
+
+1649021148 c:\users\pc\onedrive\escritorio\proyectoxd\contribuyente.cpp
+	"Contribuyente.h"
+	<time.h>
+	<algorithm>
+	<string>
+
+1649022365 c:\users\pc\onedrive\escritorio\proyectoxd\contribuyente.h
+	<cstring>
+	<random>
+
+1649033758 c:\users\pc\onedrive\escritorio\proyectoxd\manager.cpp
+	"Manager.h"
+
+1649026202 c:\users\pc\onedrive\escritorio\proyectoxd\manager.h
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<string>
+	<ctype.h>
+	"Contribuyente.h"
+

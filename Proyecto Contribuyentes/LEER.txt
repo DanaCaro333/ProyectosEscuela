@@ -1,0 +1,14 @@
+C A M B I O S:
+validaciones hechas en el ingreso de datos, para evitar datos incompletos, se valido:
+*nombre
+*apellidos
+*telefono
+*fecha nacimiento
+
+
+
+
+
+
+*****************************************
+ANEXAR CAMBIOS Y ESCRIBIRLOS

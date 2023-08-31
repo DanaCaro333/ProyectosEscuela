@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.cpp
+AnalizadorLexico.h
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.h
+
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.cpp
+AnalizadorSintactico.h
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.h
+
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.h
+iostream
+-
+string
+-
+AnalizadorLexico.h
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.h
+
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/main.cpp
+iostream
+-
+string
+-
+AnalizadorSintactico.h
+/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.h
+

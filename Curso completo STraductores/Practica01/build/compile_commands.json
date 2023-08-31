@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica01.dir/main.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica01/main.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/main.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica01.dir/AnalizadorSintactico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorSintactico.cpp"
+},
+{
+  "directory": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Practica01.dir/AnalizadorLexico.cpp.o -c /home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.cpp",
+  "file": "/home/danacaro/Desktop/CUCEI/STraductores/Practica01/AnalizadorLexico.cpp"
+}
+]

@@ -1,0 +1,13 @@
+begin
+entero hola;
+if(1>2)
+b3 := 432 + 21;
+else
+b3 := 0;
+end;
+while(
+    n32d < 0.23
+)
+b3:= 1;
+endwhile;
+end
